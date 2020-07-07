@@ -1,0 +1,37 @@
+body {
+    font-family: sans-serif;
+    font-size: 1.2em;
+}
+
+#page {
+    max-width: 50rem;
+    margin: 0 auto;
+    padding: 1rem;
+    color: #0b5345;
+}
+
+::selection {
+    background-color: #9e9d24;
+    color: white;
+}
+
+#head {
+    max-width: 25rem;
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 1.5rem;
+}
+
+h1 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+}
+
+.time {
+    color:   #26a69a;
+    font-size: 1.3rem;
+}
+
+.link {
+     color: #26a69a;
+}
